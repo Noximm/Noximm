@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Noximm
+- 👀 I’m interested in: scripting and making public scripts/items.
+- 🌱 I’m currently learning: Java & Html
+- 💞️ I’m looking to collaborate on: Making discord bots & custom scripts.
+- 📫 How to reach me: Noxim#0001 on discord
